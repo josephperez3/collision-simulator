@@ -9,6 +9,9 @@ The hosted project can be found here: [Collision Simulator](https://tansonlee.gi
 1. [Introduction](#introduction)
 2. [Functionality and Controls](#functionality-and-controls)
 
+<img src="./assets/collision.gif" width="800px">
+
+<img src="./assets/collision2.gif" width="800px">
 
 ## Introduction
 
