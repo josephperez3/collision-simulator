@@ -2,7 +2,7 @@
 
 ### This is meant as an educational tool for physics students.
 
-The hosted project can be found here: [Collision Simulator](https://tansonlee.github.io/collision-simulator/)
+The hosted project can be found here: [Collision Simulator](https://josephperez3.github.io/collision-simulator/)
 
 ## Table of Contents
 
